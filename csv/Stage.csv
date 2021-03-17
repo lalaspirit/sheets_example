@@ -1,0 +1,6 @@
+KN,S,N,N,N,E,N,N,E,N,N
+ID,Name,Chapter,Difficulty,Level,Loot Type 1,Loot ID 1,Loot Amount 1,Loot Type 1,Loot ID 1,Loot Amount 1
+1,第一关,1,1,10,Gold,,1000,Item,1,1
+2,第二关,1,1,20,Gold,,1200,Item,2,1
+1001,第一关（困难）,1,2,15,Gold,,1400,Item,11,1
+1002,第二关（困难）,1,2,25,Gold,,1600,Item,12,1
